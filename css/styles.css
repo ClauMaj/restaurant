@@ -96,15 +96,14 @@ a:hover{
 }
 .cardAdjust{
     border-color: #FFCDB2;
-    width: 200px;
+    width: 280px;
     
 }
 .multicolor{
     font-size: 30px;
     font-weight: bold;
     background: -webkit-linear-gradient(#6d6875ff, white);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+
 }
 hr.style-one {
     border: 0;
@@ -126,7 +125,7 @@ hr.style-one {
 }
 
 .testColor{
-    background-color: rgb(95, 0, 0);
+    background-color: rgb(136, 79, 79);
 }
 .carborder{
     border-color: #6d6875ff;
@@ -140,4 +139,7 @@ hr.style-one {
 
 .contactUl{
     list-style: none;
+}
+.fontt{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
