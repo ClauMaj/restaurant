@@ -103,7 +103,6 @@ a:hover{
     font-size: 30px;
     font-weight: bold;
     background: -webkit-linear-gradient(#6d6875ff, white);
-    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 hr.style-one {
