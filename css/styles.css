@@ -125,3 +125,15 @@ hr.style-one {
     height: 25%;
 }
 
+.testColor{
+    background-color: rgb(95, 0, 0);
+}
+.carborder{
+    border-color: #6d6875ff;
+    border-width: 5px;
+    border-style: solid;
+}
+.right.carousel-control, .left.carousel-control {
+    opacity: 0;
+    filter:alpha(opacity=0); /* IE support */
+}
