@@ -103,6 +103,7 @@ a:hover{
     font-size: 30px;
     font-weight: bold;
     background: -webkit-linear-gradient(#6d6875ff, white);
+    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 hr.style-one {
@@ -135,4 +136,8 @@ hr.style-one {
 .right.carousel-control, .left.carousel-control {
     opacity: 0;
     filter:alpha(opacity=0); /* IE support */
+}
+
+.contactUl{
+    list-style: none;
 }
